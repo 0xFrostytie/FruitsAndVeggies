@@ -1,0 +1,5 @@
+fastai==2.8.1
+torch==2.6.0  
+timm==1.0.15
+torchvision==0.21.0 
+gradio
